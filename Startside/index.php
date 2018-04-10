@@ -1,15 +1,6 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114655227-1"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-114655227-1');
-        </script>
         <title>Startsiden; <?php echo date("d.m.Y");?></title>
         <meta charset="UTF-8">
         <meta name="description" content="Startside for faget Webprogrammering i PHP">
